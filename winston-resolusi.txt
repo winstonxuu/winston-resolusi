@@ -2,3 +2,5 @@ winston Resolusi
 - Konsisten belajar programming 5x seminggu
 - Membuat project latihan website
 - Membuat portfolio website
+- Membuat website untuk company profile
+- Kolaborasi dengan perusahaan
