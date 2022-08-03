@@ -3,9 +3,11 @@ RENCANA KONTEN WINSTON
 - Javascript
   * a
   * b
-   - angular
+   - vue
    - react
+- Fundamental Data Structure
 - PHP Frameworks
-   - laravel
+   - Laravel
 - Interview
 - Vlog
+- Python
